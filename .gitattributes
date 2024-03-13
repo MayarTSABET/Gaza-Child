@@ -3,4 +3,4 @@
 *.HTML linguist-detectable=false
 *.Swift linguist-detectable=false
 *.C linguist-detectable=false
-*.Dart linguist-detectable=true
+*.Dart linguist-detectable=false
